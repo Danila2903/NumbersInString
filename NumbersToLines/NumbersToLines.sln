@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersToLines", "NumbersToLines\NumbersToLines.csproj", "{6A4CC601-3821-42A0-AA06-E4EBA011BA2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A4CC601-3821-42A0-AA06-E4EBA011BA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4CC601-3821-42A0-AA06-E4EBA011BA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4CC601-3821-42A0-AA06-E4EBA011BA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4CC601-3821-42A0-AA06-E4EBA011BA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E248DCA-2A2E-421B-B550-142E96D22B6F}
+	EndGlobalSection
+EndGlobal
