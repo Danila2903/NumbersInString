@@ -57,7 +57,7 @@ namespace NumbersToLines
 
         public static Gender GetGender()
         {
-            Console.WriteLine("Введите пол (формат ввода: \"М\", \"Ж\",\"С\")");
+            Console.WriteLine("Введите пол (формат ввода: \"М\", \"Ж\", \"С\")");
             var str2 = Console.ReadLine();
             Gender cGender = Gender.Unknown;
             str2 = str2.Replace(" ", "");
@@ -72,7 +72,7 @@ namespace NumbersToLines
 
         public static Case GetCase()
         {
-            Console.WriteLine("Введите падеж (формат ввода: \"И\", \"Р\",\"Д\",\"В\", \"Т\",\"П\")");
+            Console.WriteLine("Введите падеж (формат ввода: \"И\", \"Р\", \"Д\", \"В\", \"Т\", \"П\")");
             var str2 = Console.ReadLine();
             str2 = str2.Replace(" ", "");
             Case cCase = Case.Unknown;
