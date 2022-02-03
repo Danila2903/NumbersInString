@@ -33,7 +33,7 @@ namespace NumbersToLines
                 }
 
                 var cGender = GetGender();
-                if (cGender == Gender.Unknown)
+                if (cGender == Gender.Unknown) //some change
                 {
                     Console.WriteLine("Неверно введен пол");
                     continue;
